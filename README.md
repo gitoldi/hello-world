@@ -1,5 +1,5 @@
 # hello-world
 
-Follow the 'Hello World' tutorial.
+Follow : 'Hello World' tutorial.
 
 Name : M R - gitoldi
