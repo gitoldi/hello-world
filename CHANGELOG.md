@@ -1,6 +1,6 @@
 # Changelog for GitHub Hello-World tutorial
 
-Just a copy of another CHANGELOG.md file.
+Started with a copy of another CHANGELOG.md file.
 
 Links used as reference:
 
