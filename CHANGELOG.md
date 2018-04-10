@@ -14,7 +14,6 @@ Links used as reference:
 ## Unreleased
 
 1. _tbd_
-2. _tbd2_
 
 ---
 
