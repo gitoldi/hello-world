@@ -7,13 +7,13 @@ Name : M R - gitoldi
 * Punt 1
 tekst
 
-** Sub 1
+## Sub 1
 tekst
 
-** Sub 2
+## Sub 2
 tekst
 
-** Sub 3
+## Sub 3
 tekst
 
 * punt 2
