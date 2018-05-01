@@ -26,4 +26,5 @@
         - 180501 MR, Created.
 
 #>
-Write-Host 'Hello there'
+$CurDate = Get-Date –f "yyyyMMdd-HHmmss"
+Write-Host $CurDate ': Hello there'
