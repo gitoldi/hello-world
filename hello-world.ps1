@@ -27,5 +27,5 @@
 
 #>
 
-$CurDate = Get-Date -Format "yyMMdd-HHmmss"
+$CurDate = Get-Date -Format "yyyyMMdd-HHmmss"
 Write-Host $CurDate ': Hello there'
