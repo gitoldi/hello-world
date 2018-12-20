@@ -1,12 +1,9 @@
 # hello-world
 
 Follow : 'Hello World' tutorial.
-<<<<<<< HEAD
 
 Name : Gitoldi
-=======
-Name   : gitoldi
->>>>>>> 984808125584c60d7bdced928762da606a0886bd
+==============
 
 * Punt 1
 tekst
