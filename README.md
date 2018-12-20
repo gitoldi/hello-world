@@ -2,7 +2,7 @@
 
 Follow : 'Hello World' tutorial.
 
-Name : M R - gitoldi
+Name : Gitoldi
 
 * Punt 1
 tekst
