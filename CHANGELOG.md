@@ -27,6 +27,10 @@ Links used as reference:
 
 ## History of changes
 
+### 1.1-dev (181220)
+Removed initials from readme.md.
+Removed some hex word from readme.md.
+
 ### 1.0-dev (2017-09-21)
 
 - Setup of CHANGELOG.md via GitHub
