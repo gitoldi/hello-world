@@ -4,6 +4,7 @@ Started with a copy of another CHANGELOG.md file.
 
 Links used as reference:
 
++ [Git - Documentation](https://git-scm.com/doc)
 + [Changelog at Wikipedia](https://en.wikipedia.org/wiki/Markdown)
 + [Changelog CommonMark Spec](http://spec.commonmark.org/)
 + [GitHub markdown based on CommonMark](https://github.github.com/gfm/)
@@ -27,7 +28,10 @@ Links used as reference:
 
 ## History of changes
 
-### 1.1-dev (181220)
+### 1.2 (2019-05-09)
+Added pointer to git documentation.
+
+### 1.1-dev (2018-12-20)
 Removed initials from readme.md.
 Removed some hex word from readme.md.
 
