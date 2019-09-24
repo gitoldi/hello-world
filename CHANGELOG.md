@@ -28,6 +28,14 @@ Links used as reference:
 
 ## History of changes
 
+### 1.3.1 (2019-09-24)
+_Added_
+* Folder : folder1
+* File : Template.ps1
+
+_Changed_ 
+* This changelog.md
+
 ### 1.3 (2019-09-24)
 _Added_
 * Added the username to the output.
