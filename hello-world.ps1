@@ -29,4 +29,4 @@
 #>
 
 $CurDate = Get-Date -Format "yyyyMMdd-HHmmss"
-Write-Host $CurDate ': Hello there'
+Write-Host $CurDate ': Hello there ' $env:USERNAME

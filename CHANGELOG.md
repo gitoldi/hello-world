@@ -28,6 +28,13 @@ Links used as reference:
 
 ## History of changes
 
+### 1.3 (2019-09-24)
+_Added_
+* Added the username to the output.
+
+_Changed_ 
+* This changelog.md
+
 ### 1.2 (2019-05-09)
 Added pointer to git documentation.
 
